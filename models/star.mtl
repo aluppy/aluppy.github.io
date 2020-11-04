@@ -1,0 +1,19 @@
+newmtl Rainbow Anodized Metal
+illum 7
+Kd 0 0 0
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm star/Rainbow Anodized Metal_metallic.jpg
+adobe_translucence 0
+map_Pr star/Rainbow Anodized Metal_roughness.jpg
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd star/Rainbow Anodized Metal_baseColor.jpg
+disp star/Rainbow Anodized Metal_height.jpg
+map_d star/Rainbow Anodized Metal_opacity.jpg
